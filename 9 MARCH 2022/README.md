@@ -22,9 +22,6 @@
 ```
 - Completed coding assignments on functions - Level 2
 - Attented Ashish's demo
-- [01-Numbers.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/00-Python%20Object%20and%20Data%20Structure%20Basics/01-Numbers.ipynb) 
-- [01-Variable Assignment.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/00-Python%20Object%20and%20Data%20Structure%20Basics/01-Variable%20Assignment.ipynb)
-- [02-Strings.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/00-Python%20Object%20and%20Data%20Structure%20Basics/02-Strings.ipynb)
 
 ```
 
@@ -43,3 +40,6 @@
 ### LINKS
 - (https://www.w3schools.com/python/ref_string_split.asp)
 - (https://stackabuse.com/python-split-string-into-list-with-split/)
+- [01-Numbers.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/00-Python%20Object%20and%20Data%20Structure%20Basics/01-Numbers.ipynb) 
+- [01-Variable Assignment.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/00-Python%20Object%20and%20Data%20Structure%20Basics/01-Variable%20Assignment.ipynb)
+- [02-Strings.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/00-Python%20Object%20and%20Data%20Structure%20Basics/02-Strings.ipynb)
