@@ -1,51 +1,13 @@
 11 MARCH 2022
 
-## First Half
+## Assignement
 
-- Topic one
-- Task one
+- Coding on first milestone project(incomplete)
+
 
 ### Videos
 
-- <COURSE NAME - VIDEO NAME> - <STATUS> (COMPLETED / PROGRESS)
-- Comparison Operators in Python - COMPLETED
-
-### Assignment 
-
-- Completed assignment one
-- In progress assignment two
-
-
-
-
-### Links
-
-- Link 1 
-- Link 1 
-- Link 1 
-
-## Second Half
-
-- Topic one
-- Topic two
-
-### Videos
-
-- <COURSE NAME - VIDEO NAME> - <STATUS> (COMPLETED / PROGRESS)
-- Comparison Operators in Python - COMPLETED
-
-### Assignment 
-
-- Completed assignment one
-- In progress assignment two
-
-### Doubts
-
-- Doubt 1
-- Doubt 2
-
-### Links
-
-- Link 1 
-- Link 1 
-- Link 1 
+- 055 First Python Milestone Project Overview
+- 057 Solution Overview for MileStone Project 1 - Part One
+- 058 Solution Overview for MileStone Project 1 - Part Two
+- 059 Advanced Project Solution Overview
