@@ -12,6 +12,10 @@
 
 - Person Assignment - In Progress
 
+## DOUBTS
+
+- No doubts
+
 ## LINKS
 
 - https://www.geeksforgeeks.org/sorting-objects-of-user-defined-class-in-python/
@@ -34,6 +38,10 @@
 
 - Person Assignment - In Progress
 - Hackerrank Solved two problems.
+
+## DOUBTS
+
+- No Doubts
 
 ## LINKS
 
