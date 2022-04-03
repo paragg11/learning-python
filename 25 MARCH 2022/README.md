@@ -19,6 +19,11 @@
 
 - Lot of assignment errors
 
+## LINKS
+
+- [Python math.sin() Method](https://www.w3schools.com/python/ref_math_sin.asp)
+- [Python Math](https://www.w3schools.com/python/python_math.asp)
+
 ## SECOND HALF
 
 - Scientific Calculator Assignment - In Progress
@@ -39,8 +44,6 @@
 
 ## LINKS
 
-- [Python math.sin() Method](https://www.w3schools.com/python/ref_math_sin.asp)
-- [Python Math](https://www.w3schools.com/python/python_math.asp)
 - [Python Classes and Objects](https://www.geeksforgeeks.org/python-classes-and-objects/)
 - [f-strings in Python](https://www.geeksforgeeks.org/formatted-string-literals-f-strings-python/)
 

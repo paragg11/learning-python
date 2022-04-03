@@ -1,40 +1,36 @@
 ## 15 MARCH 2022
 
 #### FIRST HALF
-```
+
 - Completed Modules and Packages
-```
+
 
 #### VIDEOS
-```
+
 - 069 Pip Install and PyPi
 - 070 Modules and Packages
 - 071 __name__ and __main__
-```
+
 
 #### ASSIGNMENT
-```
+
 - Completed assignments on Modules and Packages
-```
 
 #### SECOND HALF
-```
+
 - Completed Errors and Exception Handling
-```
 
 #### VIDEOS
-```
+
 - 072 Errors and Exception Handling
 - 073 Errors and Exceptions Homework
 - 074 Errors and Exception Homework - Solutions
 - 075 Pylint Overview
 - 076 Running tests with the Unittest Library
-```
 
 #### ASSIGNMENT
-```
+
 - Completed homework on Errors and Exception Handling
-```
 
 #### LINKS
 
