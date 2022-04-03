@@ -15,6 +15,15 @@
 
 - Assignment of Advanced Python Modules - In Progress
 
+## DOUBTS
+
+- No Doubts for now
+
+## LINKS
+
+- [00-Collections-Module-checkpoint.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/12-Advanced%20Python%20Modules/.ipynb_checkpoints/00-Collections-Module-checkpoint.ipynb)
+- [01-Datetime-Module-checkpoint.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/12-Advanced%20Python%20Modules/.ipynb_checkpoints/01-Datetime-Module-checkpoint.ipynb)
+
 ## SECOND HALF
 
 - 15 Advanced Python Modules - Completed
@@ -31,10 +40,12 @@
 
 - Assignment of Advanced Python Modules - in Progess
 
+## DOUBTS
+
+- No Doubts for now
+
 ## LINKS
 
-- [00-Collections-Module-checkpoint.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/12-Advanced%20Python%20Modules/.ipynb_checkpoints/00-Collections-Module-checkpoint.ipynb)
-- [01-Datetime-Module-checkpoint.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/12-Advanced%20Python%20Modules/.ipynb_checkpoints/01-Datetime-Module-checkpoint.ipynb)
 - [01-Opening-and-Reading-Files-Folders-checkpoint.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/12-Advanced%20Python%20Modules/.ipynb_checkpoints/01-Opening-and-Reading-Files-Folders-checkpoint.ipynb)
 - [02-Datetime-Module-checkpoint.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/12-Advanced%20Python%20Modules/.ipynb_checkpoints/02-Datetime-Module-checkpoint.ipynb)
 - [2-Math-and-Random-Module-checkpoint.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/12-Advanced%20Python%20Modules/.ipynb_checkpoints/02-Math-and-Random-Module-checkpoint.ipynb)

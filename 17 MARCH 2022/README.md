@@ -14,6 +14,14 @@
 
 - Milestone Project 2 assignment in progress
 
+## DOUBTS
+
+- No Doubts for now
+
+## LINKS
+
+- - [00-Milestone-2-Warmup-Project-checkpoint.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/08-Milestone%20Project%20-%202/.ipynb_checkpoints/00-Milestone-2-Warmup-Project-checkpoint.ipynb)
+- [01-Milestone Project 2 - Assignment-checkpoint.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/08-Milestone%20Project%20-%202/.ipynb_checkpoints/01-Milestone%20Project%202%20-%20Assignment-checkpoint.ipynb)
 
 ## SECOND HALF
 
@@ -28,8 +36,11 @@
 
 - Milestone Project 2 assignment in progress
 
+## DOUBTS
+
+- No Doubts for now
+
 ## LINKS
-- [00-Milestone-2-Warmup-Project-checkpoint.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/08-Milestone%20Project%20-%202/.ipynb_checkpoints/00-Milestone-2-Warmup-Project-checkpoint.ipynb)
-- [01-Milestone Project 2 - Assignment-checkpoint.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/08-Milestone%20Project%20-%202/.ipynb_checkpoints/01-Milestone%20Project%202%20-%20Assignment-checkpoint.ipynb)
+
 - [02-Milestone Project 2 - Walkthrough Steps Workbook-checkpoint.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/08-Milestone%20Project%20-%202/.ipynb_checkpoints/02-Milestone%20Project%202%20-%20Walkthrough%20Steps%20Workbook-checkpoint.ipynb)
 - [03-Milestone Project 2 - Complete Walkthrough Solution-checkpoint.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/08-Milestone%20Project%20-%202/.ipynb_checkpoints/03-Milestone%20Project%202%20-%20Complete%20Walkthrough%20Solution-checkpoint.ipynb)

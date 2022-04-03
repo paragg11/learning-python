@@ -1,26 +1,36 @@
-## 15 MARCH 2022
+15 MARCH 2022
 
-#### FIRST HALF
+## FIRST HALF
 
 - Completed Modules and Packages
 
 
-#### VIDEOS
+## VIDEOS
 
 - 069 Pip Install and PyPi
 - 070 Modules and Packages
 - 071 __name__ and __main__
 
 
-#### ASSIGNMENT
+## ASSIGNMENT
 
 - Completed assignments on Modules and Packages
 
-#### SECOND HALF
+## DOUBTS
+
+- No Doubts for now
+
+## LINKS
+
+- [00-Modules_and_Packages](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/tree/master/06-Modules%20and%20Packages/00-Modules_and_Packages)
+- [01-Name_and_Main](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/tree/master/06-Modules%20and%20Packages/01-Name_and_Main)
+- [Useful_Info_Notebook.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/06-Modules%20and%20Packages/Useful_Info_Notebook.ipynb)
+
+## SECOND HALF
 
 - Completed Errors and Exception Handling
 
-#### VIDEOS
+## VIDEOS
 
 - 072 Errors and Exception Handling
 - 073 Errors and Exceptions Homework
@@ -28,15 +38,16 @@
 - 075 Pylint Overview
 - 076 Running tests with the Unittest Library
 
-#### ASSIGNMENT
+## ASSIGNMENT
 
 - Completed homework on Errors and Exception Handling
 
-#### LINKS
+## DOUBTS
 
-- [00-Modules_and_Packages](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/tree/master/06-Modules%20and%20Packages/00-Modules_and_Packages)
-- [01-Name_and_Main](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/tree/master/06-Modules%20and%20Packages/01-Name_and_Main)
-- [Useful_Info_Notebook.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/06-Modules%20and%20Packages/Useful_Info_Notebook.ipynb)
+- No doubts for now
+
+## LINKS
+
 - [01-Errors and Exceptions Handling.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/07-Errors%20and%20Exception%20Handling/01-Errors%20and%20Exceptions%20Handling.ipynb)
 - [02-Errors and Exceptions Homework.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/07-Errors%20and%20Exception%20Handling/02-Errors%20and%20Exceptions%20Homework.ipynb)
 - [03-Errors and Exceptions Homework - Solution.ipynb](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/07-Errors%20and%20Exception%20Handling/03-Errors%20and%20Exceptions%20Homework%20-%20Solution.ipynb)

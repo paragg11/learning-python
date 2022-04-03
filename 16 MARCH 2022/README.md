@@ -12,6 +12,14 @@
 
 - Completed assignment of unittest library
 
+## DOUBTS
+
+- No Doubts for now 
+
+## LINKS
+
+- https://docs.python.org/3/tutorial/datastructures.html
+
 
 ## SECOND HALF
 
@@ -26,8 +34,11 @@
 
 - Completed Kunal Sir assg
 
+## DOUBTS
+
+- No Doubts for now
+
 ## LINKS
 
-- https://docs.python.org/3/tutorial/datastructures.html
 - https://docs.python.org/3/tutorial/modules.html
 - https://docs.python.org/3/tutorial/inputoutput.html
