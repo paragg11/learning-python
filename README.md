@@ -42,3 +42,11 @@
 #### [01 APRIL 2022](https://github.com/sp18-interns/parag-intern/tree/main/01%20APRIL%202022)
 
 #### [04 APRIL 2022](https://github.com/sp18-interns/parag-intern/tree/main/04%20APRIL%202022)
+
+#### [05 APRIL 2022](https://github.com/sp18-interns/parag-intern/tree/main/05%20APRIL%202022)
+
+#### [06 APRIL 2022](https://github.com/sp18-interns/parag-intern/tree/main/06%20APRIL%202022)
+
+#### [07 APRIL 2022](https://github.com/sp18-interns/parag-intern/tree/main/07%20APRIL%202022)
+
+#### [08 APRIL 2022](https://github.com/sp18-interns/parag-intern/tree/main/08%20APRIL%202022)
