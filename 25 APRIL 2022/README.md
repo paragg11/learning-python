@@ -15,12 +15,14 @@
 
 ## LINKS
 
+- [Naming Conventions with Underscores in Python](https://medium.com/python-features/naming-conventions-with-underscores-in-python-791251ac7097)
 - [5 Principles to write SOLID Code](https://towardsdatascience.com/5-principles-to-write-solid-code-examples-in-python-9062272e6bdc)
-- [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 
 ## SECOND HALF
 
-- ⌛
+- ⌛ Input session with Vishal Sir on SOLID principles
+- ⌛ Demo discussion session with Kunal Sir, Abrar Sir and Vishal Sir
+- 🚧 Reading articles shared by Vishal Sir - In Progress
 
 ## VIDEOS
 
@@ -28,8 +30,8 @@
 
 ## ASSIGNMENT
 
-- 📈 
+- 🚧 Experience Assignment - In progress
 
 ## LINKS
 
--
+- [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
