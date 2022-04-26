@@ -1,10 +1,10 @@
-# 26 APRIL 2022
+26 APRIL 2022
 
 ## FIRST HALF
 
-- Revised datatype 
-- ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20191023173512/Python-data-structure.jpg)
-- 
+- ⌛ Discussion session with Abrar Sir and Vishal Sir
+- 🚧 Started with Scientific Calculator Assignment
+- ✅ Done with basic calculation function(addition,subtraction,multiplication and division)
 
 ## VIDEOS
 
@@ -12,13 +12,20 @@
 
 ## ASSIGNMENT 
 
-- No Assignment
+- ✅ Class Calculator with Basic Operations completed.
+
+## DOUBTS
+
+- How to use scientific calculator(solution in link)
 
 ## LINKS
 
+- [math — Mathematical functions](https://docs.python.org/3/library/math.html)
 
 ## SECOND HALF
 
+- ⌛ Assignment related discussion with Abrar Sir and Vishal Sir
+- 🚧 Implementing Scientific calculator functions like sin, cos, tan functions 
 
 ## VIDEOS
 
@@ -26,6 +33,13 @@
 
 ## ASSIGNMENT
 
+- 🚧 Scientific Function and  Main - In progress
+
+## DOUBTS 
+
+- How to use radian and degree in scientific calculator 
 
 ## LINKS
 
+- [math — Mathematical functions](https://docs.python.org/3/library/math.html)
+- [sin cos formulas](https://byjus.com/sin-cos-formulas/)
