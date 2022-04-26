@@ -40,7 +40,7 @@
 
 ## DOUBTS
 
-- How to calculate time in new assg without using time module
+- How to calculate time in new assg without using time modulepwd
 
 ## LINKS
 

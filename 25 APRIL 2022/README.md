@@ -13,6 +13,10 @@
 
 - No Assignment
 
+## DOUBTS
+
+- No Doubts for now
+
 ## LINKS
 
 - [Naming Conventions with Underscores in Python](https://medium.com/python-features/naming-conventions-with-underscores-in-python-791251ac7097)
@@ -31,6 +35,11 @@
 ## ASSIGNMENT
 
 - 🚧 Experience Assignment - In progress
+
+## DOUBTS 
+
+- Dependency Inversion Principle topic not clearly understood
+
 
 ## LINKS
 
