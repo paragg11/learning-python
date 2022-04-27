@@ -23,7 +23,7 @@
 - [Radians to Degree](https://stackoverflow.com/questions/13260296/python-cos90-and-cos270-not-0)
 - [Degree to Radians](https://www.w3schools.com/python/ref_math_degrees.asp) 
 - [Log Base 10](https://www.open.edu/openlearn/mod/oucontent/view.php?id=68407&section=2#:~:text=The%20process%20of%20taking%20a,1000%20the%20answer%20is%203.)
-- - [Multilevel Inheritance in Python](https://www.educba.com/multilevel-inheritance-in-python/)
+- [Multilevel Inheritance in Python](https://www.educba.com/multilevel-inheritance-in-python/)
 - [Multiple Inheritance in Python](https://realpython.com/lessons/multiple-inheritance-python/)
 
 ## SECOND HALF
