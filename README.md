@@ -3,7 +3,7 @@
 
 ##### [04 MARCH 2022](https://github.com/sp18-interns/parag-intern/tree/main/04%20MARCH%202022)
 
-##### [07 MARCH 2022](https://github.com/sp18-interns/parag-intern/tree/main/7%20MARCH)
+##### [07 MARCH 2022](https://github.com/sp18-interns/parag-intern/tree/main/07%20MARCH%202022)
 
 ##### [08 MARCH 2022](https://github.com/sp18-interns/parag-intern/tree/main/8%20MARCH%202022)
  
