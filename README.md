@@ -5,7 +5,7 @@
 
 ##### [07 MARCH 2022](https://github.com/sp18-interns/parag-intern/tree/main/07%20MARCH%202022)
 
-##### [08 MARCH 2022](https://github.com/sp18-interns/parag-intern/tree/main/8%20MARCH%202022)
+##### [08 MARCH 2022](https://github.com/sp18-interns/parag-intern/tree/main/08%20MARCH%202022)
  
 ##### [09 MARCH 2022](https://github.com/sp18-interns/parag-intern/tree/main/9%20MARCH%202022)
 
