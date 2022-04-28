@@ -234,7 +234,6 @@ class AdvancedCalculator(TrigonometricCalulator):
         answer = math.log10(self.x)
         #print("log10(%f) = %f" %(num,answer))
         return answer
-
     def get_square_root(self):
         """
 
@@ -247,7 +246,7 @@ class AdvancedCalculator(TrigonometricCalulator):
 
     #TODO - Unittest
     #TODO - Run all options together - DONE
-    #TODO - README
+    #TODO - README 
     #TODO - MULTI LEVEL INHERITANCE - DONE
     #TODO - change method names from nouns to verbs/action phrases - DONE
-    #TODO - DOC STRING
+    #TODO - DOC STRING - DONE
