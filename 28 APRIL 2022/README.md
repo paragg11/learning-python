@@ -26,7 +26,7 @@
 
 ## VIDEOS
 
-- NO VIDEOS
+- [unit testing in python](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
 
 ## ASSIGNMENT
 
