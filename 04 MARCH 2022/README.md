@@ -14,8 +14,8 @@
 
 ## LINKS
 
-- [LISTS](https://www.w3schools.com/python/python_lists.asp)
-- [LISTS](https://www.w3schools.com/python/python_lists.asp)
+- ✅ [LISTS](https://www.w3schools.com/python/python_lists.asp)
+- ✅ [LISTS](https://www.w3schools.com/python/python_lists.asp)
 
 ## SECOND HALF
 
@@ -31,4 +31,4 @@
 
 ## LINKS
 
-- [Lists vs Sets vs Tuples](https://www.geeksforgeeks.org/difference-between-list-vs-set-vs-tuple-in-python/)  
+- ✅ [Lists vs Sets vs Tuples](https://www.geeksforgeeks.org/difference-between-list-vs-set-vs-tuple-in-python/)  
