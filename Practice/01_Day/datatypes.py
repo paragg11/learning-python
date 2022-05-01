@@ -62,6 +62,7 @@ print("*" * 100)
 
 
 
-# TODO - how to name variables in python
-# TODO - best practices of naming conventions
-# TODO - how does google write code and give name to variables
+# TODO - how to name variables in python                        -Done
+# TODO - best practices of naming conventions                   -Done
+# TODO - how does google write code and give name to variables  -Pending
+# TODO - Readme with the understanding.                         -Pending
