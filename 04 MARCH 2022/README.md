@@ -2,7 +2,7 @@
 
 ## FIRST HALF
 
-- 🚧 Started with LISTS
+- 🚧 Started with Lists
 
 ## VIDEOS
 
