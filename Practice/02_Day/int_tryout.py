@@ -1,3 +1,4 @@
+import sys
 print("NUMERIC CONTAINS INT, FLOAT AND COMPLEX NUMBER")
 
 print("INTEGER")
@@ -5,64 +6,53 @@ num_int = 10    # int
 print(num_int)
 print("*" * 100)
 
-print('FLOAT')
-num_float = 10.0   # float
-print(num_float)
-print("*" * 100)
+num_negative_int = -1
+print(f"The variable name is num_negavtive_int and the value is {num_negative_int} and type of it is {type(num_negative_int)}")
 
-print("COMPLEX NUMBERS")
-# Initializing real numbers
-x = 5
-y = 3
+# TODO :- Please find this and edit this
+num_mimimum_int = - sys.maxsize -1
+num_maximum_int = sys.maxsize
+num_maximum_int = sys.maxsize * 2 + 1
+print(f"The variable name is num_mimimum_int and the value is {num_mimimum_int} and type of it is {type(num_mimimum_int)}")
+print(f"The variable name is num_maximum_int and the value is {num_maximum_int} and type of it is {type(num_maximum_int)}")
 
-# converting x and y into complex number
-z = complex(x, y)
+num = num_maximum_int + 200
+print(num)
 
-# printing real and imaginary part of complex number
-print("The real part of complex number is : ", end="")
-print(z.real)
+# The below tryout is to understand the phenomena of dynamic type language.
+# And python is dynamic type language
+n :int = "10.0"
+print(n)
+n :str= "parag"
+print(n)
 
-print("The imaginary part of complex number is : ", end="")
-print(z.imag)
-print("*" * 100)
+digit = 1234567
+print(len(digit))
 
-print("DICTIONARY")
-parag_dict = {1 : "ICICI", 2 : "GOOGLE", 3 : "SPARK" } # dictionary
-print(parag_dict)
-print("*" * 100)
+"""
+Traceback (most recent call last):
+  File "D:\SparkEighteen\parag-intern\Practice\02_Day\int_tryout.py", line 39, in <module>
+    int("ab")
+ValueError: invalid literal for int() with base 10: 'ab'
+"""
+# the below statment will raise a ValueError
+#int("ab")
 
-print("BOOLEAN")
-parag_bool = bool
-print(parag_bool)
+"""
+binary              01
+hex                 06
+octal               08
+decimal             0 10
 
-print("SET")
-parag_set = (1,2,3)      # set
-print(parag_set)
-print("*" * 100)
+all the conversion
 
-
-print("SEQUENCE TYPES INCLUDE STRINGS,LIST AND TUPLE")
-
-print('STRING')
-paragb = "gunjal"
-print(paragb)
-print("*" * 100)
-
-print('LIST')
-parag1 = [1,2,3,4,5,] # list
-print(parag1)
-print("*" * 100)
-
-print("TUPLE")
-parag3 = (1,2,3,4,5,2,3,4,5)
-print(parag3)# tuple
-print("*" * 100)
+"""
 
 
 
 
 
-# TODO - how to name variables in python                        -Done
-# TODO - best practices of naming conventions                   -Done
-# TODO - how does google write code and give name to variables  -Pending
-# TODO - Readme with the understanding.                         -Pending
+number = int(input("Please type a number"))
+if not isinstance(number,int):
+    raise ValueError("It is not of type int")
+
