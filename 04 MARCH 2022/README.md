@@ -19,7 +19,7 @@
 
 ## SECOND HALF
 
-- 🚧 Started with Sets and Tuples
+- 🚧 Started with Sets & Tuples
 
 ## VIDEOS
 
