@@ -32,6 +32,7 @@
 ## ASSIGNMENT
 
 - 🚧 Reading book(Learning Python - The Hard Way)
+- 🚧 Practised one hackerrank problem on lists
 
 ## DOUBTS
 
