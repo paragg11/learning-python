@@ -2,42 +2,42 @@
 
 ## FIRST HALF
 
-- SOLVING ASSIGNMENT AND PRACTICING CODING ON EXERCISM
+- 🚧 SOLVING ASSIGNMENT AND PRACTICING CODING ON EXERCISM
 
 ## VIDEOS
 
-- NO VIDEOS
+- 🚫 NO VIDEOS
 
 ## ASSIGNMENT 
 
-- COMPLETED 2 ASSIGNMENT ON EXERCISM
+- ✅ COMPLETED 2 ASSIGNMENT ON EXERCISM
 
 ## DOUBTS
 
-- ALL DOUBTS CLEARED TILL NOW
+- ✅ ALL DOUBTS CLEARED TILL NOW
 
 ## LINKS
 
-- https://pine.fm/LearnToProgram/chap_09.html
+- ✅ https://pine.fm/LearnToProgram/chap_09.html
 
 ## SECOND HALF
 
-- SOLVING ASSIGNMENT AND PRACTICING CODING ON EXERCISM
-- INFORMATIVE DISCUSSION SESSION ON ASSIGNMENT SOLVED
+- 🚧 SOLVING ASSIGNMENT AND PRACTICING CODING ON EXERCISM
+- 🚧 INFORMATIVE DISCUSSION SESSION ON ASSIGNMENT SOLVED
 
 ## VIDEOS
 
-- NO VIDEOS
+- 🚫 NO VIDEOS
 
 ## ASSIGNMENT 
 
-- COMPLETED ASSIGNMENT ON EXERCISM
+- ✅ COMPLETED ASSIGNMENT ON EXERCISM
 
 ## DOUBTS
 
-- ALL DOUBTS CLEARED TILL NOW
+- ✅ ALL DOUBTS CLEARED TILL NOW
 
 ## LINKS
 
-- https://www.geeksforgeeks.org/python-datetime-timedelta-function/
-- https://docs.python.org/3/library/datetime.html
+- ✅ https://www.geeksforgeeks.org/python-datetime-timedelta-function/
+- ✅ https://docs.python.org/3/library/datetime.html
