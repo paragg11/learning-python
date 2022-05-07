@@ -2,44 +2,44 @@
 
 ## FIRST HALF
 
-- EXERCISM : Queen Attack 
-- EXERCISM : Clock
+- 🚧 EXERCISM : Queen Attack 
+- 🚧 EXERCISM : Clock
 
 ## VIDEOS
 
-- No Videos
+- 🚫 No Videos
 
 ## ASSIGNMENT
 
-- Queen Attack Assignment Completed
-- Clock Assignment Completed
+- ✅ Queen Attack Assignment Completed
+- ✅ Clock Assignment Completed
 
 ## DOUBTS
 
-- No Doubts
+- 🚫 No Doubts
 
 ## LINKS
 
-- https://stackoverflow.com/questions/61544854/from-future-import-annotations
+- ✅ https://stackoverflow.com/questions/61544854/from-future-import-annotations
 
 ## SECOND HALF
 
-- MINI PROJECT BY CODE WITH HARRY
+- 🚧 MINI PROJECT BY CODE WITH HARRY
 
 ## VIDEOS
 
-- No Videos
+- 🚫 No Videos
 
 ## ASSIGNMENT
 
-- Completed Library Book Assignment 
+- ✅ Completed Library Book Assignment 
 
 ## DOUBTS
 
-- No Doubts
+- 🚫 No Doubts
 
 ## LINKS
 
-- https://developers.google.com/optimization/cp/queens
-- https://livebook.manning.com/book/classic-computer-science-problems-in-python/chapter-3/
+- ✅ https://developers.google.com/optimization/cp/queens
+- ✅ https://livebook.manning.com/book/classic-computer-science-problems-in-python/chapter-3/
 
