@@ -38,7 +38,7 @@
 
 ## ASSIGNMENT
 
-- 🚫 No Assignment
+- ✅ Hackerrank - Swap cases
 
 ## DOUBTS
 
