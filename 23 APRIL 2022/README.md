@@ -6,7 +6,7 @@
 
 ## VIDEOS
 
-- NO VIDEOS
+- 🚫 NO VIDEOS
 
 ## ASSIGNMENT 
 
@@ -14,8 +14,8 @@
 
 ## LINKS
 
-- [GIT STASH POP](https://www.theserverside.com/video/Compare-git-stash-pop-and-git-stash-apply-for-file-restores#:~:text=The%20key%20difference%20between%20git,then%20deletes%20the%20applied%20stash.)
-- [Python Datetime](https://www.w3schools.com/python/python_datetime.asp)
+- ✅ [GIT STASH POP](https://www.theserverside.com/video/Compare-git-stash-pop-and-git-stash-apply-for-file-restores#:~:text=The%20key%20difference%20between%20git,then%20deletes%20the%20applied%20stash.)
+- ✅ [Python Datetime](https://www.w3schools.com/python/python_datetime.asp)
 
 ## SECOND HALF
 
@@ -23,7 +23,7 @@
 
 ## VIDEOS
 
-- NO VIDEOS
+- 🚫 NO VIDEOS
 
 ## ASSIGNMENT
 
@@ -31,4 +31,4 @@
 
 ## LINKS
 
-- [CLASSES](https://docs.python.org/3/tutorial/classes.html)
+- ✅ [CLASSES](https://docs.python.org/3/tutorial/classes.html)
