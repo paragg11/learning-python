@@ -1,4 +1,4 @@
-22 	APRIL 2022
+25 	APRIL 2022
 
 ## FIRST HALF
 
@@ -7,20 +7,20 @@
 
 ## VIDEOS
 
-- NO VIDEOS
+- 🚫 NO VIDEOS
 
 ## ASSIGNMENT 
 
-- No Assignment
+- 🚫 No Assignment
 
 ## DOUBTS
 
-- No Doubts for now
+- 🚫 No Doubts for now
 
 ## LINKS
 
-- [Naming Conventions with Underscores in Python](https://medium.com/python-features/naming-conventions-with-underscores-in-python-791251ac7097)
-- [5 Principles to write SOLID Code](https://towardsdatascience.com/5-principles-to-write-solid-code-examples-in-python-9062272e6bdc)
+- ✅ [Naming Conventions with Underscores in Python](https://medium.com/python-features/naming-conventions-with-underscores-in-python-791251ac7097)
+- ✅ [5 Principles to write SOLID Code](https://towardsdatascience.com/5-principles-to-write-solid-code-examples-in-python-9062272e6bdc)
 
 ## SECOND HALF
 
@@ -30,7 +30,7 @@
 
 ## VIDEOS
 
-- NO VIDEOS
+- 🚫 NO VIDEOS
 
 ## ASSIGNMENT
 
@@ -38,9 +38,9 @@
 
 ## DOUBTS 
 
-- Dependency Inversion Principle topic not clearly understood
+- 🚧 Dependency Inversion Principle topic not clearly understood
 
 
 ## LINKS
 
-- [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+- ✅ [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
