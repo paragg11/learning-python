@@ -11,7 +11,7 @@
 
 ## ASSIGNMENT
 
-- ✅ Implemented Rest API moethods i.e GET POST PUT PATCH DELETE
+- ✅ Implemented Rest API methods i.e GET POST PUT PATCH DELETE
 
 ## DOUBTS
 
@@ -27,6 +27,7 @@
 
 - 🚧 Reading articles on Versioning a Rest API
 - ✅ Completed task given by Vishal Sir on LeetCode
+- ✅ Hackerrank - Split and join exercise completed
 
 ## VIDEOS
 
