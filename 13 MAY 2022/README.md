@@ -1,4 +1,4 @@
-12 MAY 2022
+13 MAY 2022
 
 ## FIRST HALF
 
@@ -11,7 +11,7 @@
 
 ## ASSIGNMENT
 
-- ✅ [SQL exercise]
+- ✅ [SQL exercise](https://github.com/sp18-interns/parag-intern/tree/main/13%20MAY%202022/SQL)
 
 
 ## DOUBTS
@@ -35,7 +35,7 @@
 
 ## ASSIGNMENT
 
-- ✅ [SQL exercise]
+- ✅ [SQL exercise](https://github.com/sp18-interns/parag-intern/tree/main/13%20MAY%202022/SQL)
 
 ## DOUBTS
 
