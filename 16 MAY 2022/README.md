@@ -12,7 +12,7 @@
 
 ## ASSIGNMENT
 
-- ✅ [SQL exercise completed]
+- ✅ [SQL exercise completed](https://github.com/sp18-interns/parag-intern/blob/main/16%20MAY%202022/SQL/README.md)
 
 ## DOUBTS
 
@@ -21,7 +21,6 @@
 ## LINKS
 
 - ✅ [SQL Aliases](https://www.w3schools.com/sql/sql_alias.asp)
-001 Module Introduction
 - ✅ [The SQL DROP DATABASE Statement](https://www.w3schools.com/sql/sql_drop_db.asp)
 - ✅ [The SQL CREATE TABLE Statement](https://www.w3schools.com/sql/sql_create_table.asp)
 - ✅ [SQL DROP TABLE Statement](https://www.w3schools.com/sql/sql_drop_table.asp)
