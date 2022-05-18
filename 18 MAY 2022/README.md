@@ -19,7 +19,7 @@
 
 ## DOUBTS
 
-- Got struck for almost entire as i started with new project and was able to clear new virtual environment and also django installation problem. 
+- Got struck for almost an entire day, as I started with new project and was able to create a new virtual environment and also django installation problem(Now Resolved). 
 
 ~~~
 SOLUTION:
