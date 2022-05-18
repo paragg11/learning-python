@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block title %}
+    My Blog
+{% endblock %}
+
+{% block content %}
+    <header id = "main-navigation">
+        <h1><a href=""> Parag's Blog </a></h1>
+        <nav>
+            <a href="">All Posts</a>
+        </nav>
+    </header>
+
+    <section id = "WELCOME">
+      <header>
+          <img src="" alt=" Parag - The author of this blog.">
+          <h2> Parag Blog</h2>
+      </header>
+        <p> Hey Parag here. This is my first blog</p>
+    </section>
+
+    <section id="latest-posts">
+        <h2>My latest thoughts</h2>
+        <ul>
+            <li>
+                <article class="post">
+                    <a href="">
+                        <img src="" alt="trends" />
+                        <div class="post_content">
+                            <h3>Trends</h3>
+                            <p>There are upwards, downwards and sideways trends</p>
+                        </div>
+                    </a>
+                </article>
+            </li>
+        </ul>
+    </section>
+
+    <section id="about us">
+        <h2>What i do</h2>
+        <p>I love trading. I love Investing. </p>
+    </section>
+{% endblock %}
