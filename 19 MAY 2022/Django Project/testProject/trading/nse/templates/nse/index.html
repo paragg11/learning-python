@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{%load static %}
+
+{% block title %}
+    My Blog
+{% endblock %}
+
+{% block css_files %}
+    <link rel="stylesheet" href="{% static 'nse/index.css' %}" />
+{% endblock %}
+
+{% block content %}
+    <header id ="main-navigation">
+        <h1><a href=""> Parag's Blog </a></h1>
+        <nav>
+            <a href="">All Posts</a>
+        </nav>
+    </header>
+
+    <section id ="welcome">
+      <header>
+          <img src="{% static 'nse/images/d1.jpg' %}" alt=" Parag - The author of this blog.">
+          <h2> Parag's Blog</h2>
+      </header>
+        <p> Hey Parag here. This is my first blog</p>
+    </section>
+
+    <section id="latest-posts">
+        <h2>My latest thoughts</h2>
+        <ul>
+            <li>
+                <article class="post">
+                    <a href="">
+                        <img src="{% static 'nse/images/d2.jpg' %}" alt="Trends" />
+                        <div class="post_content">
+                            <h3>Trends</h3>
+                            <p>There are upwards, downwards and sideways trends</p>
+                        </div>
+                    </a>
+                </article>
+            </li>
+        </ul>
+    </section>
+
+    <section id="about us">
+        <h2>What i do</h2>
+        <p>I love trading. I love Investing.</p>
+        <p>My goal is to keep growing as a trader and investor.</p>
+    </section>
+{% endblock %}
