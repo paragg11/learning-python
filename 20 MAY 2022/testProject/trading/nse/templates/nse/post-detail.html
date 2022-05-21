@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}
+This Post Title
+{% endblock %}
+
+{% block css_files %}
+<link rel="stylesheet" href="{% static 'nse/post-detail.css' %}"/>
+
+{% endblock %}
+
+{% block content %}
+<section id="summary">
+    <h2>Investing types</h2>
+    <article>
+        <img src="{% static 'nse/images/d3.jpg' %}" alt="Post Title"/>
+        <address>By Parag Gunjal</address>
+        <div>
+            Last Updated on
+            <time> May 20th</time>
+        </div>
+    </article>
+
+
+    <main>
+        <p>
+            Trading Types - Long term, Swing, Intraday, Positional
+        </p>
+        <p>
+            Trading Types - Long term, Swing, Intraday, Positional
+        </p>
+        <p>
+            Trading Types - Long term, Swing, Intraday, Positional
+        </p>
+    </main>
+
+    {% endblock %}

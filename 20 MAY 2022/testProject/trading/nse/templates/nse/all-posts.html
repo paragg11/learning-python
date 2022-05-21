@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}
+ALL MY POSTS!!!
+{% endblock %}
+
+{% block css_files %}
+<link rel="stylesheet" href="{% static 'nse/post.css' %}"/>
+<link rel="stylesheet" href="{% static 'nse/all-posts.css' %}"/>
+{% endblock %}
+
+{% block content %}
+<section id="all-posts">
+    <h2>My Collected Posts</h2>
+    <ul>
+        {% include "nse/includes/post.html" %}
+        {% include "nse/includes/post.html" %}
+        {% include "nse/includes/post.html" %}
+        {% include "nse/includes/post.html" %}
+        {% include "nse/includes/post.html" %}
+        {% include "nse/includes/post.html" %}
+    </ul>
+</section>
+{% endblock %}
