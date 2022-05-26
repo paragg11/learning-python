@@ -108,3 +108,5 @@
 ##### [24 MAY 2022](https://github.com/sp18-interns/parag-intern/tree/main/24%20MAY%202022)
 
 ##### [25 MAY 2022](https://github.com/sp18-interns/parag-intern/tree/main/25%20MAY%202022)
+
+##### [26 MAY 2022](https://github.com/sp18-interns/parag-intern/tree/main/26%20MAY%202022)
