@@ -7,7 +7,15 @@
 
 ## VIDEOS
 
-- 🚫 No Videos
+- ✅ 6019 Preparing Templates
+- ✅ 6020 Rendering Queried Data in the Template
+- ✅ 6021 Rendering the Details Page
+- ✅ 6022 Model URLs
+- ✅ 6023 Adding a Slugfield & Overwriting Save
+- ✅ 6024 Using the Slug & Updating Field Options
+- ✅ 6025 Aggregation & Ordering
+- ✅ 6026 Summary
+- ✅ 7001 Module Introduction
 
 ## ASSIGNMENT
 
