@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}
+This Post Title
+{% endblock %}
+
+{% block css_files %}
+<link rel="stylesheet" href="{% static 'nse/post-detail.css' %}"/>
+
+{% endblock %}
+
+{% block content %}
+<section id="summary">
+    <h2>{{ posts.title}}</h2>
+    <article>
+        <img src="{% static 'nse/images/'|add:posts.image %}" alt="{{posts.title}}"/>
+        <address>{{posts.author}}</address>
+        <div>
+            Last Updated on
+            <time> {{posts.date}}</time>
+        </div>
+        <h3>{{posts.excerpt}}</h3>
+        <p>{{posts.content}}</p>
+    </article>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <main>
+        <p>{{posts.content}}</p>
+
+    </main>
+
+    {% endblock %}
