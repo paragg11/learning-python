@@ -36,8 +36,12 @@
 
 ## ASSIGNMENT
 
-- 🚧 
+- 🚧  Library Management Task - In Progress
+~~~
+- Understood how to add requirement.txt file in project.
+- Understood commands to install requirement.txt file
 
+~~~
 ## DOUBTS
 
 - 🚫 No doubts for now.
