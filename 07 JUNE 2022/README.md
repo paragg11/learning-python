@@ -40,6 +40,8 @@
 
 ## LINKS
 
-- 
+Reading Book
+- Django 3 By Example Build powerful and reliable Python web applications from scratch.
+
 
 
