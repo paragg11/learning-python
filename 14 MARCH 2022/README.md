@@ -43,7 +43,7 @@
 
 ## DOUBTS
 
-- 🚫 No doubts for now
+- 🚫 sNo doubts for now
 
 ## LINKS
  

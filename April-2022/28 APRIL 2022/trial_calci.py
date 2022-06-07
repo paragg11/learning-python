@@ -245,8 +245,10 @@ class AdvancedCalculator(TrigonometricCalulator):
 
 
     #TODO - Unittest
+    #TODO - DIFFERENT I/P FROM USER - DONE
+    #TODO - DIFFERENT CALCULATOR
     #TODO - Run all options together - DONE
-    #TODO - README 
+    #TODO - README
     #TODO - MULTI LEVEL INHERITANCE - DONE
     #TODO - change method names from nouns to verbs/action phrases - DONE
     #TODO - DOC STRING - DONE
