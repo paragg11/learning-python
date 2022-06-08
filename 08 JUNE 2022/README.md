@@ -22,8 +22,9 @@
 
 ## SECOND HALF
 
-- 🚧 Python Django - Library Management Task. 
-- ✅ Hackerrank solving one problem.
+- 🚧 Reading articles on swagger.
+- ✅ [Hackerrank solving one problem.](https://www.hackerrank.com/challenges/exceptions/problem?isFullScreen=true)
+- ✅ Attending knowledge session on authenication and authorisation.
 
 ## VIDEOS
 
@@ -39,8 +40,7 @@
 
 ## LINKS
 
-Reading Book
-- Django 3 By Example Build powerful and reliable Python web applications from scratch.
-
-
+- [Django REST Swagger](https://marcgibbons.com/django-rest-swagger/)
+- [API Landing Page](https://api.ed-fi.org/)
+- [Medium articles](https://medium.com/@contrapasso/how-i-got-faang-offers-without-grinding-leetcode-7e556243e9ce)
 
