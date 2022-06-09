@@ -24,7 +24,6 @@
 
 - 🚧 Reading articles on swagger.
 - ✅ [Hackerrank solving one problem.]
-- ✅ Attending knowledge session on authenication and authorisation.
 
 ## VIDEOS
 
