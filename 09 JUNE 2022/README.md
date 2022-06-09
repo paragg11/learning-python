@@ -22,7 +22,7 @@
 
 ## SECOND HALF
 
-- 🚧 Reading articles on swagger.
+- 🚧 Resolved with pyrhon interpreter.
 - ✅ [Hackerrank solving one problem.]
 
 ## VIDEOS
@@ -39,7 +39,5 @@
 
 ## LINKS
 
-- [Django REST Swagger](https://marcgibbons.com/django-rest-swagger/)
-- [API Landing Page](https://api.ed-fi.org/)
-- [Medium articles](https://medium.com/@contrapasso/how-i-got-faang-offers-without-grinding-leetcode-7e556243e9ce)
+- No Links
 
