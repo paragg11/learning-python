@@ -1,4 +1,4 @@
-13 JUNE 2022
+14 JUNE 2022
 
 ## FIRST HALF
 
@@ -19,7 +19,8 @@
 
 ## LINKS
 
-- https://github.com/darrin/yaras#why-do-we-need-this-restful-standard
+- [why-do-we-need-this-restful-standard](https://github.com/darrin/yaras#why-do-we-need-this-restful-standard)
+- [Flowchart symbols](https://www.smartdraw.com/flowchart/flowchart-symbols.htm)
 
 ## SECOND HALF
 
@@ -40,7 +41,7 @@
 
 ## LINKS
 
-- http://users.csc.calpoly.edu/~jdalbey/205/Lectures/HOWTO-ERD.html
- 
+- [why-do-we-need-this-restful-standard](https://github.com/darrin/yaras#why-do-we-need-this-restful-standard)
+- [Flowchart symbols](https://www.smartdraw.com/flowchart/flowchart-symbols.htm) 
  
 
