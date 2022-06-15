@@ -2,7 +2,7 @@
 
 ## FIRST HALF
 
-- ✅ CSCI Lecture 6. 
+- ✅ CSCI Lecture 6 - Decisions. 
 - 🚧 Created a basic flow chart for sign up and ERD by implementing SQL queries. 
 
 ## VIDEOS
@@ -15,12 +15,13 @@
 
 ## DOUBTS
 
-- 🚫 No doubts for now.
+- Problem while installing PostgreSQL, resolved by using below links. 
 
 ## LINKS
 
 - [why-do-we-need-this-restful-standard](https://github.com/darrin/yaras#why-do-we-need-this-restful-standard)
 - [Flowchart symbols](https://www.smartdraw.com/flowchart/flowchart-symbols.htm)
+- [Connecting DBeaver PostgreSQL via JDBC Driver: 4 Easy Steps - Learn | Hevo](https://hevodata.com/learn/dbeaver-postgresql/#:~:text=Often%20referred%20to%20as%20a,Teradata%2C%20Apache%20Hive%2C%20etc)
 
 ## SECOND HALF
 
