@@ -1,0 +1,1 @@
+![Alt text](powermod.png?raw="True")
