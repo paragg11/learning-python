@@ -48,7 +48,7 @@ Save this in your templates folder as redoc.html. Then route a TemplateView in y
 
 ## DOUBTS
 
-- Implementation in progress, need to advanced doc for more information.
+- Implementation in progress, need to read advanced doc for more information.
 
 ## LINKS
 
