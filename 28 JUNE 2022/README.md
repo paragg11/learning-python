@@ -2,7 +2,7 @@
 
 ## FIRST HALF
 
-- 🚧 CSCI Lecture 8 exercises in progress. 
+- 🚧 CSCI Lecture 8 exercises completed. 
 - 🚧 Working on passbook by understanding and implementing JWT
 
 ## VIDEOS
@@ -35,10 +35,20 @@
 
 - [Passbook](https://github.com/sp18-interns/django-passbook)
 - [JWT Debugger](https://jwt.io/)
+```
+Generating documentation from OpenAPI schemas
+
+Two popular options are Swagger UI and ReDoc.
+
+Save this in your templates folder as swagger-ui.html. Then route a TemplateView in your project's URL conf
+
+Save this in your templates folder as redoc.html. Then route a TemplateView in your project's URL conf
+
+```
 
 ## DOUBTS
 
-- Implementation in progress
+- Implementation in progress, need to advanced doc for more information.
 
 ## LINKS
 
