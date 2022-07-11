@@ -23,12 +23,11 @@
 
 ## SECOND HALF
 
-- ✅ Hackerrank solving one problem.
-- 
+- Log in of passbook completed, validations to be done.
 
 ## VIDEOS
 
-- 🚫 No videos
+- Watched first 3 parts of DRF
 
 ## ASSIGNMENT
 
@@ -36,8 +35,8 @@
 
 ## DOUBTS
 
-- 
+- No doubts for now
 
 ## LINKS
 
-- 
+- [Django REST Framework documentation](https://www.django-rest-framework.org/tutorial/quickstart/)
