@@ -147,4 +147,6 @@
 
 ##### [19 JULY 2022](https://github.com/sp18-interns/parag-intern/tree/main/19%20JULY%202022)
 
-##### [20 JULY 2022](https://github.com/sp18-interns/parag-intern/tree/main/20%20JULY%202022) 
+##### [20 JULY 2022](https://github.com/sp18-interns/parag-intern/tree/main/20%20JULY%202022)
+
+##### [21 JULY 2022](https://github.com/sp18-interns/parag-intern/tree/main/21%20JULY%202022) 
